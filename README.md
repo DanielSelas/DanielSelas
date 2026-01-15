@@ -40,5 +40,5 @@
 <br />
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/daniel-moyal-sela-0909ab267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielsela96@gmail.com)
