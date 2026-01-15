@@ -33,9 +33,11 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielSelas&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSelas&theme=radical&hide_border=true" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSelas&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSelas&layout=compact&theme=radical&hide_border=true&card_width=320" alt="languages" />
 </div>
 
 <br />
